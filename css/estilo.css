@@ -142,3 +142,20 @@ body {
   100%  { background-color: #ccc; }
 }
 
+.btn-orange{
+  background-color: orangered;
+}
+
+.btn-orange:hover{
+  background-color: rgb(207, 55, 0);
+  color: black;
+}
+
+.catalogo{
+  color: white;
+}
+
+.catalogo:hover{
+  color: black;
+}
+
